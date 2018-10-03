@@ -1,0 +1,96 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f4f6f9;
+}
+
+
+
+.ree{
+margin-top: 75px;
+width: 100%;
+height: auto;
+
+}
+
+
+.form-naam, .form-onderwerp, .form-email {
+margin-left: 20px;
+border: 1px solid lightgrey;
+border-radius: 2px;
+margin-right: 20px;
+outline: none;
+width: 200px;
+height: 30px;
+}
+
+.form-inhoud {
+  margin-top: 35px;
+  width: 690px;
+  height: 300px;
+  border: 1px solid lightgrey;
+  border-radius: 2px;
+}
+
+
+
+.form-submit {
+  border-radius: 2px;
+  margin-top: 35px;
+  width: 695px;
+  color: #fff;
+  font-size: 1.2em;
+  height: 40px;
+  border: none;
+  text-decoration: none;
+  background-color: rgb(2, 98, 255)
+}
+
+
+}
+.stappen {
+
+  -webkit-box-shadow: 0px 1px 9px 2px rgba(112,101,112,1);
+-moz-box-shadow: 0px 1px 9px 2px rgba(112,101,112,1);
+box-shadow: 0px 1px 9px 2px rgba(112,101,112,1);
+  margin-left: 12.5%;
+  width: 75%;
+  margin-top: 100px;
+  background-color: white;
+  min-height: 40em;
+  z-index: 1;
+}
+
+.circel {
+  margin-left: 100px;
+  float:left;
+  width: 125px;
+  height: 125px;
+  border-radius: 50%;
+  background-color: rgb(252, 60, 60);
+}
+
+.line {
+  margin-top: 50px;
+  width: 750px;
+  border-bottom: 3px  dashed rgb(252, 60, 60);
+  margin-left: 10px;
+}
+
+.formulier {
+
+  text-align: center;
+  min-height: 20em;
+  width: 60%;
+  margin-left: 20%;
+  margin-top: 100px;
+}
+
+textarea {
+  border: none;
+  overflow: auto;
+  outline: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
